@@ -1,4 +1,5 @@
 # GTA 5 PC cheats
+![](https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png)
 Here are all the GTA 5 PC cheats we found useful.
 
 ## How to enter cheats in GTA 5 PC
