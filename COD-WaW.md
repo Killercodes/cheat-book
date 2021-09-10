@@ -1,4 +1,5 @@
 # Call of Duty World at War
+![](https://upload.wikimedia.org/wikipedia/en/1/19/Call_of_Duty_World_at_War_cover.png)
 
 Press `"~"` (or the key above Tab) during gameplay to open the cheats console. Type `"devmap mak"` and press **[Enter]** to begin cheat mode. 
 Enter these codes for the desired effect:
