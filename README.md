@@ -1,4 +1,4 @@
-# Games-cheat Collection
+# Cheat-Book
 Collection of Games cheat for quick reference
 
 - [GTA 5 PC Cheat](GTA-5)
